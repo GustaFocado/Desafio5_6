@@ -14,6 +14,21 @@ Este repositório contém soluções para desafios de programação em Java, des
 - **Tecnologias Utilizadas:** Java, BigInteger
 - **Data:** 2024
 
+- ### Desafio 7: Base 64 
+- **Objetivo:** Codificar e decodificar.
+- **Tecnologias Utilizadas:** Java.
+- **Data:** 2024
+
+- ### Desafio 6: Multiplicação de Números Grandes
+- **Objetivo:** Multiplicar números grandes (com mais de 22 dígitos) e exibir o resultado.
+- **Tecnologias Utilizadas:** Java, BigInteger
+- **Data:** 2024
+
+- ### Desafio 6: Multiplicação de Números Grandes
+- **Objetivo:** Multiplicar números grandes (com mais de 22 dígitos) e exibir o resultado.
+- **Tecnologias Utilizadas:** Java, BigInteger
+- **Data:** 2024
+
 ## Como Executar
 
 Para executar qualquer um dos desafios, navegue até o diretório do desafio e compile e execute o código Java.
