@@ -19,8 +19,8 @@ Este repositório contém soluções para desafios de programação em Java, des
 - **Tecnologias Utilizadas:** Java.
 - **Data:** 2024
 
-- ### Desafio 6: Multiplicação de Números Grandes
-- **Objetivo:** Multiplicar números grandes (com mais de 22 dígitos) e exibir o resultado.
+- ### Desafio 8: Sistema de Ranking
+- **Objetivo:** Mapear um Ranking. 
 - **Tecnologias Utilizadas:** Java, BigInteger
 - **Data:** 2024
 
