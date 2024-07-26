@@ -21,12 +21,12 @@ Este repositório contém soluções para desafios de programação em Java, des
 
 - ### Desafio 8: Sistema de Ranking
 - **Objetivo:** Mapear um Ranking. 
-- **Tecnologias Utilizadas:** Java, BigInteger
+- **Tecnologias Utilizadas:** Java
 - **Data:** 2024
 
-- ### Desafio 6: Multiplicação de Números Grandes
-- **Objetivo:** Multiplicar números grandes (com mais de 22 dígitos) e exibir o resultado.
-- **Tecnologias Utilizadas:** Java, BigInteger
+- ### Desafio 9: Cifra de Cesar
+- **Objetivo:** Criptografar e descriptografar 
+- **Tecnologias Utilizadas:** Java, Cifra Cesar
 - **Data:** 2024
 
 ## Como Executar
