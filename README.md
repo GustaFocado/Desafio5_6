@@ -16,4 +16,4 @@ Este repositório contém soluções para desafios de programação em Java, des
 
 ## Como Executar
 
-Para executar qualquer um dos desafios, naveg
+Para executar qualquer um dos desafios, navegue até o diretório do desafio e compile e execute o código Java.
